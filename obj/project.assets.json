@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/andy/.nuget/packages/": {}
+    "/Users/arelymartinez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andy/CodeStack 22-23/lvl 1/Githubchallange/Restraunt/Restraunt.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/Restraunt/Restraunt.csproj",
       "projectName": "Restraunt",
-      "projectPath": "/Users/andy/CodeStack 22-23/lvl 1/Githubchallange/Restraunt/Restraunt.csproj",
-      "packagesPath": "/Users/andy/.nuget/packages/",
-      "outputPath": "/Users/andy/CodeStack 22-23/lvl 1/Githubchallange/Restraunt/obj/",
+      "projectPath": "/Users/arelymartinez/Desktop/GitRepository/Restraunt/Restraunt.csproj",
+      "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+      "outputPath": "/Users/arelymartinez/Desktop/GitRepository/Restraunt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/andy/.nuget/NuGet/NuGet.Config"
+        "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
